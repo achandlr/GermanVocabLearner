@@ -1,0 +1,451 @@
+Absicht	intention
+Achtung	attention
+ähnlich	similar
+ahnen	to suspect
+Ahnung	idea, suspicion, premonition
+außer / außerdem	except / besides
+äußerst	extremely
+bedeuten	to mean
+damit	so that
+enttäuschen	to disappoint
+enttäuscht	disappointed
+erklären	to explain
+erlauben	to allow, permit
+es kommt darauf an	to depend (it depends)
+fließend	fluently
+Folge	consequence
+gehören	to belong to
+genügen	to suffice
+geschehen	to happen
+häufig	frequently
+heutzutage	nowadays
+höchstens	at most
+im voraus	in advance
+insgesamt	altogether
+irren (sich)	to be wrong
+kaum	hardly / scarcely
+ob	whether
+obgleich / obwohl	although
+sobald	as soon as
+statt	instead of
+umsonst	in vain / free (of charge)
+völlig	completely / fully
+vor allem	above all
+vor kurzem	recently / a short time ago
+Vorsicht (vorsichtig)	careful
+wagen	to dare
+während	while
+weder … noch	neither … nor
+abnehmen	to lose weight / slim
+Alptraum	nightmare
+altmodisch	old fashioned
+anbauen	to grow (crops)
+ändern	to change
+anprobieren	to try on
+Anrichte	sideboard
+anschalten	to switch on
+anschnallen (sich)	to fasten seat belt
+anstrengend	tiring, exhausting
+anziehen	to attract
+ärgerlich	annoying
+ärgern	to annoy
+artig	well behaved
+aufgeregt	excited
+aufschließen	to unlock
+ausschalten	to switch off
+ausschlafen	to sleep in
+außer Betrieb	out of order / not working
+Autobahnkreuz	highway junction
+Bahnübergang	railroad crossing
+Baustelle	construction site, roadworks
+befinden (sich)	to be situated
+beilegen	to enclose
+beißen (Biss)	to bite (bite)
+bewundern	to admire
+Beziehung	relationship
+Braut (Bräutigam)	bride (bridegroom)
+Dachboden	attic / loft
+echt	genuine
+Ehe	marriage
+Eigenschaft	quality, characteristic
+Eindruck	impression
+erscheinen	to appear
+Fahrzeug	vehicle
+Fensterladen	shutter
+Fernbedienung	remote control
+fließen	to flow
+Freundschaft	friendship
+gebrauchen (gebraucht)	to use (used, second hand)
+Gebrauchsanweisung	manual, instructions
+Gedächtnis	memory
+Gefahr (gefährlich)	danger(ous)
+Gegenteil	opposite
+geschieden	divorced
+Geschlecht	sex / gender
+Geschwindigkeits(begrenzung)	speed (limit)
+getrennt	separated
+Gewicht	weight
+Gipfel	summit
+Griff	handle
+gütig	kind
+Hauptverkehrszeit	rush hour
+heizen	to heat
+hupen	to hoot
+Hütte	shed / hut
+Jahrhundert	century
+Kabel	cable / wiring
+Käfig	cage
+Kamin	fireplace (hearth)
+Kennzeichen	license plate, registration number
+Klimaanlage	air-conditioning
+(an)klopfen	to knock
+Kofferraum	trunk, boot (of car)
+König	king
+Königin	queen
+Kontaktlinsen	contact lenses
+Kreis(verkehr)	(traffic) circle (roundabout)
+Krug	jug
+lächeln	to smile
+lächerlich	ridiculous
+Lage	situation
+Lärm	noise (loud)
+lebhaft	lively
+Leitung	cable / wiring / pipes
+Lenkrad	steering wheel
+liefern	to deliver
+Luftdruck	air pressure
+nennen	to name
+neugierig	curious / inquisitive
+öffentlich	public
+Persönlichkeit	personality
+Puppe	doll
+Quadratmeter	square metre
+Rasierapparat	shaver
+Reinigung	dry cleaning
+reißen	to tear
+Reißverschluss	zipper
+rücksichtslos	careless
+Rückspiegel	rear-view mirror
+Rundfunk	radio
+sanft	gentle
+Schloss	lock (of door)
+schminken (sich)	to put on make-up
+Schmuck	jewellery
+Schublade	drawer
+Schuppen	shed
+Schwager	brother-in-law
+Schwägerin	sister-in-law
+schwanger	pregnant
+Schwiegermutter	mother-in-law
+Schwiegervater	father-in-law
+selbständig	independently
+seltsam	odd / strange
+Senioren	senior citizens
+sich rasieren	to shave
+Sicherheit	safety
+Sicherheitsgurt	seatbelt
+Stau	hold-up / traffic jam
+Stiefmutter / vater	step-mother / father
+Streichhölzer	matches
+Streit	argument / quarrel
+stumm	silent / mute
+sympathisch	nice
+Tastatur	keyboard
+taub	deaf
+Teppichboden	fitted carpet
+Traum	dream
+träumen	to dream
+überfahren	to run over
+überholen	to overtake
+überqueren	to cross (road)
+umgeben von	surrounded by
+Umleitung	diversion
+Verantwortung	responsibility
+Vergnügen	pleasure
+vergrößern	to enlarge
+vernünftig	sensible / reasonable
+verrückt	mad
+Vertrauen	trust
+Vorfahrt	priority / right of way
+wachsen	to grow
+weinen	to cry (tears)
+Werkzeug	tools
+Windschutzscheibe	windscreen
+Wintergarten	conservatory
+winzig	tiny
+Witwe	widow
+Witwer	widower
+Zebrastreifen	zebra-crossing
+zornig	angry
+Zufall (zufällig)	(by) chance
+zunehmen	to put on weight / increase
+zusammenstoßen mit	to collide with
+Anfänger	beginner
+Besteck	cutlery
+bestehen aus	to consist of
+bluten	to bleed
+Blutprobe	blood test
+brennen	to burn
+Brust	chest, breast
+Chirurg(in)	surgeon
+Diät (eine Diät halten)	diet (to be on a diet)
+dienen	to serve
+Durchfall	diarrhea
+Ellbogen	elbow
+enthalten	to contain
+erbrechen (sich)	to be sick
+Ereignis	event
+Erfolg	success
+Ergebnis	result / score
+erhalten	to receive
+erholen (sich)	to recover / get better
+Erleichterung	relief
+erreichen	to reach / catch
+erste Hilfe	first aid
+fangen	to catch
+Fett	fat / grease
+Fußgelenk	ankle
+Geflügel	poultry
+Gehirn	brain
+Geruch	smell
+Geschmack	taste
+geschwollen	swollen
+gießen	to pour
+Gips(verband)	plaster
+Glatze	bald patch
+Handgelenk	wrist
+Haut	skin
+heben	to lift / raise
+Heimweh	homesickness
+Helm	helmet
+Heuschnupfen	hay fever
+Höhe	height
+Höhle	cave
+Hustensaft	cough mixture
+jagen	to hunt
+Kinn	chin
+Knochen	bone
+leiden	to suffer
+Magenverstimmung	upset stomach
+Meister(schaft)	champion(ship)
+Menge (Menschenmenge)	quantity (crowd)
+messen	to measure
+nackt	naked
+pflegen	to look after (patient)
+pikant, scharf	spicy
+Pokal	cup (trophy)
+probieren	to try
+reichen	to pass
+riechen	to smell (sth)
+Röntgenbild	x-ray
+Salbe	cream / ointment
+satt	Full (food)
+schaden	to do harm
+Schaden	damage
+schälen	to peel
+Schiedsrichter	referee
+schlucken	to swallow
+Sieg	win / victory
+Sonnenstich	sun stroke
+Sorge (sich Sorgen machen)	worry (to worry)
+sorgen für	to look after
+Spargel	asparagus
+Spritze	injection, syringe
+tauchen	to dive
+teilnehmen	to take part
+Turnier	tournament
+übergeben (sich)	to be sick
+unentschieden	undecided / drawn (match)
+untersuchen	to examine (patient)
+Vegetarier(in)	vegetarian
+Verband	bandage
+verstauchen (sich)	to sprain
+verstopft	constipated
+Wange	cheek
+Wettbewerb, Wettkampf	competition
+Zeh	toe
+Zunge	tongue
+Abenteuer	adventure
+aufführen	to perform
+Aufführung	performance
+begegnen	to meet
+begleiten	to accompany
+bekannt	well-known
+Bekannter	acquaintance
+Bildschirm	screen
+Bühne	stage
+drucken	to print
+Drucker	printer
+empfehlen	to recommend
+Ermäßigung	discount
+faulenzen	to laze about
+feiern	to celebrate
+Fernbedienung	remote control
+Festtag, Feiertag	public holiday
+Garderobe	cloakroom (theatre)
+Gebühr	fee
+gebührenfrei / gratis	free
+Gemälde	painting
+Gerät	device, equipment
+Geräusch	sound, noise
+herunterladen	to download
+Hochzeit	wedding
+Kabel	cable / wiring
+Karneval	carnival
+Medien (Massenmedien)	media
+Messe	fair, mass (church)
+Moderator	(TV) moderator
+passieren	to happen
+plaudern	to chat
+Schaufensterbummel	window shopping
+schieben	to push
+schmücken	to decorate
+Sitte, Brauch	customs/ traditions
+Stimmung	atmosphere
+Tagesschau	TV evening news
+tippen	to type
+überraschen	to surprise
+Unterhaltung	entertainment
+Untertitel	subtitle
+Verabredung	appointment
+Veranstaltung	event
+Vorstellung	performance / introduction
+vorziehen	to prefer
+Werbung	advertising
+Zuschauer	audience / viewers
+abschliessen	to lock up
+Altpapier	recycled paper
+anzünden	to light
+Aufenthaltsdauer	duration, length (of stay)
+aufgeben	to stop / give up
+austauschen	to exchange
+beklagen (sich)	to complain
+beleuchten	to light up
+beschädigen	to damage
+beschäftigt	busy
+beschließen	to decide
+beschweren (sich)	to complain
+bessern (sich)	to improve
+Besserung	improvement / getting better
+bestätigen	to confirm
+bestehen auf	to insist on
+betrügen	to deceive
+betrunken	drunk
+beweisen	to prove
+Dieb(stahl)	thief (theft)
+dringend	urgent
+drohen	to threaten
+Einbrecher	burglar
+entkommen	to escape
+entscheiden	to decide
+entspannen (sich)	to relax
+feucht	humid
+Fleck	stain / spot
+freuen (sich) auf	to look forward to
+freuen (sich) über	to be pleased about
+Führung	guided tour
+Gefängnis	prison
+Geldstrafe	fine (money)
+Gesetz	law
+gestattet	permitted
+Gewohnheit	custom / habit
+klagen	to complain
+Kurs	exchange rate
+lauwarm	lukewarm
+löschen	to extinguish / put out
+lösen	to solve
+lügen	to lie
+Missverständnis	misunderstanding
+Mond	moon
+Mord	murder
+Niederschlag	precipitation
+Not(ruf)	emergency (phone call)
+Rat	advice / council
+raten	to advise / guess
+recyceln	to recycle
+reduzieren	to reduce
+Regel	rule
+Regierung	government
+Reiseführer	tourist guide
+retten	to save / rescue
+Rettung	rescue
+Risiko	risk
+Rolltreppe	escalator
+schämen (sich)	to be ashamed
+Schatten	shade
+schulden	to owe
+schuldig	guilty
+schützen	to protect
+stehlen	to steal
+sterben	to die
+Tod	death
+töten	to kill
+trampen / per Anhalter fahren	to hitch-hike
+Treibhauseffekt	greenhouse effect
+umtauschen	to exchange
+Unterschied	difference
+verändern (sich)	to change
+verbrauchen	to consume / use up
+verderben	to spoil
+vergiften	to poison
+Vergleich (vergleichen)	comparison (to compare)
+verhaften	to arrest
+verirren / verlaufen (sich)	to lose one’s way/ to get lost
+vermeiden	to avoid
+verschmutzen (Verschmutzung)	to pollute (pollution)
+verschwenden	to waste
+verschwinden	to disappear
+versichern (Versicherung)	to insure (insurance)
+verstecken	to hide
+wechselhaft	changeable
+wegwerfen	to throw away
+zerstören	to destroy
+Zeuge	witness
+Arbeitgeber	employer
+Arbeitnehmer	employee
+Arbeitsamt	job centre
+Arbeitslosigkeit	unemployment
+Aufsatz	essay
+Belohnung	reward
+bemerken	to notice
+beobachten	to watch / observe
+Berufsberatung	career counseling, occupational guidance
+Betriebswirtschaft	business administration
+bewerben (sich)	to apply (for a job)
+Bewerbungsgespräch	job interview
+Bildung	education
+durchfallen	to fail (exam)
+einreichen	to hand in
+Fortschritt(e)	progress
+Betriebswirtschaft	opportunity / chance
+gelingen	to succeed
+herausfinden	to find out / learn
+Hochschulabschluss	degree (university)
+Jura	law
+Lebenslauf	CV
+leisten	to achieve
+Leistung	achievement, performance
+loben	to praise
+lohnen (sich)	to be worthwhile
+mangelhaft	poor
+meinen	to mean / think
+mündlich	oral
+nachdenken	to think over / reflect
+Pension (in Pension gehen)	(to retire)
+Personal	staff
+qualifiziert	qualified
+Quittung	receipt
+rechnen	to calculate
+Rente	pension
+schriftlich	in writing
+sitzen bleiben	to repeat the year
+Sozialkunde	social science
+Umfrage / Meinungsumfrage	survey
+Universitätsabschluss/grad	degree (university)
+verbessern	to correct / improve
+Versammlung	meeting, assembly
+Vokabeln	vocabulary
+vorhaben	to intend, to plan to
+Vorschlag	suggestion
+Vorstellungsgespräch	job interview
+Zeugnis	reference, school report
