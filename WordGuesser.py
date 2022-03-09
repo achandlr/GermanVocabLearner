@@ -1,13 +1,33 @@
 # Dev time: 45 minutes 
+import sys
 
 class WordGuesser:
     def __init__(self):
         self.german_to_english = self.read_words("word_list.txt")
         self.key_iter = bidirectional_iterator(list(self.german_to_english.keys()))
         self.english_to_german = {v: k for k, v in self.german_to_english.items()}
-        self.saved_key_list = []
         self.learn_words()
 
+    def end_game(self):
+        self.print_saved_words()
+        sys.exit("Quitting Game")
+
+    def write_words(self, file_name, german_word):
+        if german_word =="":
+            return
+        with open(file_name, 'a+') as f:
+            eng = self.german_to_english[german_word]
+            f.write(german_word +"\t")
+            f.write(eng+"\n")
+
+    def print_saved_words(self):
+        self.saved_words = self.read_words("saved_words.txt")
+        self.saved_key_list = self.saved_words.keys()
+        for word in self.saved_key_list:
+            print(word)
+            print(self.german_to_english[word])
+            print("\n")
+            
     def read_words(self, file_path):
         with open(file_path) as f:
             lines = f.readlines()
@@ -16,6 +36,7 @@ class WordGuesser:
             german, english = line.strip("\n").split("\t")
             german_to_english[german] = english
         return german_to_english
+
 
     def learn_words(self):
         print_val = False
@@ -32,7 +53,11 @@ class WordGuesser:
                 elif text == "b":
                     key, word = self.go_back()
                 elif text == "s":
-                    self.saved_key_list.append(key) 
+                    self.write_words("saved_words.txt", key)
+                    # self.saved_key_list.append(key) 
+                elif text == "q":
+                    self.end_game()
+                    break
                 else:
                     print("Unrecognized command of %s" % text)
                 # alt = not alt
@@ -56,26 +81,34 @@ class WordGuesser:
             elif text  == "b":
                 key = self.key_iter.prev()
             elif text == "s":
-                    self.saved_key_list.append(key) 
+                self.write_words("saved_words.txt", key)
+                return key, word
+            elif text == "q":
+                    self.end_game()
+                    break
             else:
                 print("Unrecognized command")
     
     def go_back(self):
         while True:
-            prev_key = self.key_iter.prev()
-            prev_word = self.german_to_english[prev_key]
-            print(prev_key)
+            key = self.key_iter.prev()
+            word = self.german_to_english[key]
+            print(key)
             text = input("") 
             if text == "":
-                print(prev_word)
+                print(word)
                 # self.key_iter.next()
-                return prev_key, prev_word
+                return key, word
             elif text  == "n":
-                print(prev_word)
+                print(word)
                 # self.key_iter.next()
-                return prev_key, prev_word
+                return key, word
             elif text == "s":
-                    self.saved_key_list.append(key) 
+                self.write_words("saved_words.txt", key)
+                return key, word
+            elif text == "q":
+                    self.end_game()
+                    break
             else:
                 continue
 
